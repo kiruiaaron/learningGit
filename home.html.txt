@@ -1,8 +1,11 @@
 <html>
 <head>
    <title>Git</title>
+
 </head>
 <body>
 <p> Happy to be introduced to Git</p>
+
+<p> <span><b> learned a lot today</b></span></p>
 </body>
 </html>
